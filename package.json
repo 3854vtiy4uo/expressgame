@@ -1,0 +1,14 @@
+{
+  "name": "expressgame",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.15",
+    "sass": "^1.50.1"
+  }
+}
